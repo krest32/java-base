@@ -1,0 +1,29 @@
+
+# sentinel信息参数
+sentinel:
+  instance:
+    hostname: localhost
+    port: 8080
+
+spring:
+  cloud:
+    nacos:
+      discovery:
+        # 服务注册中心地址
+        server-addr: 127.0.0.1:8848,127.0.0.1:8849,127.0.0.1:8850
+    sentinel:
+      transport:
+        # sentinel控制台地址
+        dashboard: 127.0.0.1:8080
+        port: 8719
+  application:
+    name: service-sentinel
+
+# 该服务启动后使用的端口
+server:
+  port: 8011
+management:
+  endpoint:
+    web:
+      exposusre:
+        include: '*'

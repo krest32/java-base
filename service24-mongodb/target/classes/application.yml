@@ -1,0 +1,10 @@
+server:
+  port: 8024
+
+spring:
+  application:
+    name: demo-mongodb
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/test
+

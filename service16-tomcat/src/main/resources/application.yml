@@ -1,0 +1,6 @@
+server:
+  port: 8016
+  
+spring:
+  application:
+    name: service16-tomcat

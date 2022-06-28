@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "krest",
+      "type": "com.krest.Interceptor.common.MyConfig",
+      "sourceType": "com.krest.Interceptor.common.MyConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "krest.auth-name",
+      "type": "java.lang.String",
+      "sourceType": "com.krest.Interceptor.common.MyConfig"
+    },
+    {
+      "name": "krest.auth-password",
+      "type": "java.lang.String",
+      "sourceType": "com.krest.Interceptor.common.MyConfig"
+    }
+  ],
+  "hints": []
+}

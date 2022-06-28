@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.krest.mybatis.mapper.AppsMapper">
+
+    <sql id="AppsSelectColumns">
+        t.id , t.app_name , t.url , t.country
+    </sql>
+
+    <resultMap id="AppsBean" type="com.krest.mybatis.entity.Apps">
+        <result property="id" column="id" jdbcType="VARCHAR"/>
+        <result property="appName" column="app_name" jdbcType="VARCHAR"/>
+        <result property="url" column="url" jdbcType="VARCHAR"/>
+        <result property="country" column="country" jdbcType="VARCHAR"/>
+    </resultMap>
+
+    <!-- 动态Sql，对条件进行判断 条件查询 -->
+    <sql id="dynamicWhere">
+        <if test=" app.id != null and app.id != '' ">
+            and t.id = #{app.id}
+        </if>
+        <if test=" app.appName != null and app.appName != '' ">
+            and t.app_name like '%${app.appName}%'
+        </if>
+        <if test=" app.url != null and app.url != '' ">
+            and t.url = #{app.url}
+        </if>
+        <if test=" app.country != null and app.country != '' ">
+            and t.country = #{app.country}
+        </if>
+    </sql>
+
+
+    <!-- 根据id进行查找 -->
+    <select id="getOne" resultType="com.krest.mybatis.entity.Apps">
+        select * from apps where id=#{id}
+    </select>
+
+    <!-- 查找全部 -->
+    <select id="getAll" resultType="com.krest.mybatis.entity.Apps">
+        select * from apps
+    </select>
+
+    <!--  计算模糊查找的条数   -->
+    <select id="getCount" resultType="java.lang.Integer">
+        select
+        count(1)
+        from `apps` t
+        where 1 = 1
+        <include refid="dynamicWhere"/>
+    </select>
+
+    <!-- 条件分页查询 -->
+    <select id="getListPager" parameterType="Map" resultMap="AppsBean">
+        select
+        <include refid="AppsSelectColumns"/>
+        from `apps` t
+        where 1 = 1
+        <include refid="dynamicWhere"/>
+        limit #{page},#{limit}
+    </select>
+
+    <!--  条件查询，不分页  -->
+    <select id="queryList" parameterType="Map" resultMap="AppsBean">
+        select
+        <include refid="AppsSelectColumns"/>
+        from `apps` t
+        where 1 = 1
+        <include refid="dynamicWhere"/>
+    </select>
+
+    <!-- 根据id进行删除  -->
+    <delete id="deleteApp" >
+        delete from apps where id=#{id}
+    </delete>
+
+    <update id="updateApps">
+        update `apps`
+        set
+        <if test=" appName != null ">`app_name` = #{appName},</if>
+        <if test=" url != null ">`url` = #{url}, </if>
+        <if test=" country != null ">`country` = #{country},</if>
+        <if test=" id != null ">`id` = #{id}</if>
+        where
+        <if test=" id != null ">`id` = #{id}</if>
+    </update>
+
+    <select id="selectBySql" parameterType="Map" resultMap="AppsBean">
+        ${sql}
+    </select>
+</mapper>

@@ -1,0 +1,29 @@
+mybatis-filepath: xml\\mybatis-config.xml
+
+  # 程序运行状态
+saic-company-appId: 123456
+saic-company-apiUrl: http://localhost:8001/EE/saicComp
+saic-company-appKey: testCompanySaic
+saic-individual-appId: 123456
+saic-individual-apiUrl: http://localhost:8001/EE/saicIndi
+saic-individual-appKey: testCompanySaic
+
+a:
+  b:
+    c: 就是我
+    d: 不是我
+    e: 123456
+    f:
+    - haha
+    - xixi
+    - yuanyuan
+
+companies:
+  -
+    id: 1
+    name: company1
+    price: 200W
+  -
+    id: 2
+    name: company2
+    price: 500W

@@ -1,0 +1,20 @@
+
+
+# 1 在Es中建立js的数据存储格式
+# PUT users
+{
+  "mappings": {
+    "properties": {
+      "id":{
+        "type": "long"
+      },
+      "username":{
+        "type": "text",
+        "analyzer": "ik_smart"
+      },
+      "brandId":{
+        "type": "keyword"
+      }
+    }
+  }
+}

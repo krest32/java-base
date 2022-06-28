@@ -1,0 +1,13 @@
+{
+ "head": {
+  "requestRefId": "....",
+  "secretId": "....",
+  "signature": "...."
+ },
+ "request": {
+  "param": {
+   "dimension": "bgt",
+   "entryId": "XXXXXX19870515XXXX"
+  }
+ }
+}

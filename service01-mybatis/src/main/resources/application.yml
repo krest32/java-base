@@ -1,0 +1,19 @@
+server:
+  port: 8001
+spring:
+  application:
+    name: service01-mybatis
+  datasource:
+    username: root
+    password: 123456
+    url: jdbc:mysql://localhost:3306/demo?useUnicode=true&characterEncoding=utf-8&useSSL=false&serverTimezone=UTC
+    driver-class-name: com.mysql.cj.jdbc.Driver
+mybatis:
+  mapper-locations: classpath:com/krest/mybatis/mapper/xml/*Mapper.xml
+  type-aliases-package: com.g4m.user.entity
+
+my:
+  thread:
+    core-size: 10
+    keep-alive-time: 5
+    max-size: 20
