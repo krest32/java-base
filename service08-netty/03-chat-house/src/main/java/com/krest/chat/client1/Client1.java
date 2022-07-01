@@ -22,8 +22,8 @@ public class Client1 {
         try {
             Bootstrap bootstrap = new Bootstrap();
             bootstrap.group(workerGroup)
-                    .channel(NioSocketChannel.class)
                     .remoteAddress(new InetSocketAddress(PORT))
+                    .channel(NioSocketChannel.class)
                     .handler(new ChannelInitializer<SocketChannel>() {
                         @Override
                         protected void initChannel(SocketChannel ch) throws Exception {

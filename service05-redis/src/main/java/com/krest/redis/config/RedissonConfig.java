@@ -31,7 +31,7 @@ public class RedissonConfig {
     public Redisson redisson() {
         Config config = new Config();
         //单机版
-        config.useSingleServer().setAddress("redis://121.196.111.229:6379").setDatabase(0);
+        config.useSingleServer().setAddress("redis://localhost:6379").setDatabase(0);
 
         //集群版
       //  threadpool.useClusterServers()

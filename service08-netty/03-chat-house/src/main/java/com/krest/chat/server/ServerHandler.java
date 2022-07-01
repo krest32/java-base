@@ -12,7 +12,7 @@ import java.util.concurrent.atomic.AtomicReference;
 
 
 /**
- * 处理客户端事件
+ * 处理客户端事件，共享信息
  */
 @ChannelHandler.Sharable
 public class ServerHandler extends ChannelInboundHandlerAdapter {
@@ -49,7 +49,6 @@ public class ServerHandler extends ChannelInboundHandlerAdapter {
     @Override
     public void channelRead(ChannelHandlerContext ctx, Object msg) throws Exception {
         Channel channel = ctx.channel();
-
         AtomicReference<String> sendMsg = new AtomicReference<>("客户[" + channel.remoteAddress() + "]消息: " + msg + "\n");
         if (msg instanceof String && msg.equals("quit")) {
             clientChannels.remove(channel);

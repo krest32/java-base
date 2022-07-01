@@ -31,14 +31,6 @@ public class Server {
                     .channel(NioServerSocketChannel.class)
                     .localAddress(PORT)
                     .childHandler(new ChannelInitializer<SocketChannel>() {
-                        /**
-                         * 服务端会使用ChannelInitializer初始化与客户端通信的Channel，
-                         * 并且在Channel的ChannelPipeline 中添加ChannelHandler，
-                         * 这里主要是添加StringDecoder（将接收到的ByteBuf解码为 String, 是一种ChannelInboundHandlerAdapter）、
-                         * StringEncoder（将请求的String编码为ByteBuf，是一种ChannelOutboundHandlerAdapter）以及自实现的ChannelInboundHandlerAdapter（处理与客户端之间的通信）。
-                         * @param ch
-                         * @throws Exception
-                         */
                         @Override
                         protected void initChannel(SocketChannel ch) throws Exception {
                             ChannelPipeline pipeline = ch.pipeline();
@@ -55,5 +47,4 @@ public class Server {
             workerGroup.shutdownGracefully();
         }
     }
-
 }

@@ -1,8 +1,0 @@
--------------------------------------------------------------------------------
-Test set: zk.zookeeperTest
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 64.745 s <<< FAILURE! - in zk.zookeeperTest
-testCreateNode(zk.zookeeperTest)  Time elapsed: 64.606 s  <<< ERROR!
-org.I0Itec.zkclient.exception.ZkTimeoutException: Unable to connect to zookeeper server '192.168.42.132:2181,192.168.42.132:2182,192.168.42.132:2183' with timeout of 60000 ms
-	at zk.zookeeperTest.testCreateNode(zookeeperTest.java:33)
-
