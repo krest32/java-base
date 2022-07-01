@@ -1,0 +1,1136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aaa9b787-c28e-4b0a-a79c-7cfcb37f9a17" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/10001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/META-INF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aaa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hs_err_pid13156.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCodeReplay.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replay_pid13156.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service0-common/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service0-common/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-backup/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service00-backup/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service00-code-review/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/service00-code-review.iml" beforeDir="false" afterPath="$PROJECT_DIR$/service00-code-review/service00-code-review.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/src/main/java/JavaSE/ConCurrent/Thread/Create/MyThreadDemo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/service00-code-review/src/main/java/JavaSE/ConCurrent/Thread/Create/MyThreadDemo3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/Arithmetic/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/Arithmetic/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/Arithmetic/code/BinarySearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/Arithmetic/code/BubbleSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/Arithmetic/code/DirectInsertionSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/Arithmetic/code/Merge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/Arithmetic/code/QuickSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/Arithmetic/code/QuickSortTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/Arithmetic/code/StraightSelectionSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/Arithmetic/code/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/Arithmetic/test/CQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/Arithmetic/test/MergeSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/Arithmetic/test/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/Arithmetic/test/demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/Arithmetic/test/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/Arithmetic/test/x的平方根.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/Arithmetic/test/三个整数最大乘机$Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/Arithmetic/test/三个整数最大乘机.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/Arithmetic/test/两数之和$Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/Arithmetic/test/两数之和.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/Arithmetic/test/去掉数组重复.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/Arithmetic/test/统计素数.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/BitMap/DemoBitMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/DataStructure/code/exception/MyException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/DataStructure/code/liner/MyArrayList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/DataStructure/code/liner/MyLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/DataStructure/code/liner/MyNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/DataStructure/code/search/BinarySearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/DataStructure/code/search/BinarySearch2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/DataStructure/code/test/TestMyArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/DataStructure/code/test/TestMyLinked.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/DataStructure/code/test/TestMyTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/DataStructure/code/test/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/DataStructure/code/tree/MyBinaryTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/DataStructure/code/tree/MyTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/DataStructure/code/tree/MyTreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/DataStructure/test/链表反转.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/DesignMode/code/singletonPattern/DoubleCheckLockSingleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/DesignMode/code/singletonPattern/EagerSingleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/DesignMode/code/singletonPattern/EnumSingleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/DesignMode/code/singletonPattern/LazySingleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/DesignMode/code/singletonPattern/StaticInnerClassSingleton$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/DesignMode/code/singletonPattern/StaticInnerClassSingleton$Instance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/DesignMode/code/singletonPattern/StaticInnerClassSingleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/DesignMode/code/singletonPattern/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/DocumentWorkTool/Document_Simplification_WorkTool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/DocumentWorkTool/FileUtilsForDoc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/DocumentWorkTool/HttpUtilsForDoc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/DocumentWorkTool/StringUtilsForDoc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/Hutool/Http/HttpGetWithForm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/Hutool/Http/HttpGetWithPathParam.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/Hutool/Http/HttpPostWithFromDocumentSimplification.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/Hutool/Http/HttpPostWithFromException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/Hutool/Http/HttpPostWithHeader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/Hutool/Http/HttpPostWithPathParam.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/Hutool/Http/HttpTestWithSqlSever.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JVM/ClassLoader/Demo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JVM/ClassLoader/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JVM/ClassLoader/entity/People.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JVM/Exception/OutOfMemoryErrorDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JVM/Exception/StackOutOFMemeoryDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JVM/GC/Demo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JVM/Memory/Demo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JVM/optimized/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JVM/optimized/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/Basic/ArrayDemo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/Basic/InnerClassDemo1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/Basic/InnerClassDemo1$1Inner2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/Basic/InnerClassDemo1$Inner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/Basic/InnerClassDemo1$StaticInner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/Basic/InnerClassDemo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/Basic/PackagingClassDemo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/Basic/Service.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/Basic/StringDemo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/Basic/StringUtilsKrest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/Basic/SwitchDemo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/ConCurrent/AQS/Demo1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/ConCurrent/AQS/Demo1$Sync.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/ConCurrent/AQS/Demo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/ConCurrent/AQS/Demo2$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/ConCurrent/AQS/Demo2$Sync.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/ConCurrent/AQS/Demo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/ConCurrent/Collection/Demo1_ConCurrentHashMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/ConCurrent/Collection/Demo2_CopyOnWriteArrayList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/ConCurrent/Collection/Demo3_CopyOnWriteArraySet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/ConCurrent/Executor/Executor/ExecutorsDemo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/ConCurrent/Executor/Executor/ExecutorsDemo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/ConCurrent/Executor/Executor/ExecutorsDemo3$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/ConCurrent/Executor/Executor/ExecutorsDemo3$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/ConCurrent/Executor/Executor/ExecutorsDemo3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/ConCurrent/Executor/Executor/ExecutorsDemo4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/ConCurrent/Executor/Factory/ExecutorFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/ConCurrent/Executor/Factory/GlobalExecutor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/ConCurrent/Executor/Factory/MyThreadFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/ConCurrent/Executor/ThreadPoolExecutor/ExecutorToolDemo/CompletableFutureDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/ConCurrent/Executor/ThreadPoolExecutor/ThreadPoolExecutorDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/ConCurrent/Executor/ThreadPoolExecutor/config/MyThreadConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/ConCurrent/Executor/ThreadPoolExecutor/config/ThreadPoolConfigProperties.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/ConCurrent/Executor/entity/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/ConCurrent/Finalize/FinalizeDemo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/ConCurrent/ForkJoin/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/ConCurrent/ForkJoin/Demo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/ConCurrent/ForkJoin/Demo3$MyTask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/ConCurrent/ForkJoin/Demo3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/ConCurrent/ForkJoin/Demo4$MyForkJoinTask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/ConCurrent/ForkJoin/Demo4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/ConCurrent/ForkJoin/DemoTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/ConCurrent/Lock/Data.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/ConCurrent/Lock/Data3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/ConCurrent/Lock/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/ConCurrent/Lock/Demo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/ConCurrent/Lock/Demo2_Pro_Cou.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/ConCurrent/Lock/Demo3_Condition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/ConCurrent/Lock/Demo4_ReadWriteLockDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/ConCurrent/Lock/MyCache.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/ConCurrent/Lock/MyCacheLock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/ConCurrent/Lock/Ticket.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/ConCurrent/Supplement/Demo1_CountDownLatch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/ConCurrent/Supplement/Demo2_CycliBarriar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/ConCurrent/Supplement/Demo3_Semaphore.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/ConCurrent/Synchronize/Counter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/ConCurrent/Synchronize/Data.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/ConCurrent/Synchronize/Demo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/ConCurrent/Synchronize/Demo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/ConCurrent/Synchronize/Demo3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/ConCurrent/Synchronize/Demo4_Pro_Cou.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/ConCurrent/Synchronize/Demo5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/ConCurrent/Synchronize/Demo5Anti.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/ConCurrent/Synchronize/Demo6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/ConCurrent/Synchronize/Demo7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/ConCurrent/Synchronize/Demo8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/ConCurrent/Synchronize/Demo9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/ConCurrent/Synchronize/Sngleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/ConCurrent/Synchronize/SyncThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/ConCurrent/Synchronize/Ticket.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/ConCurrent/Thread/Create/MyCallable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/ConCurrent/Thread/Create/MyRunnable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/ConCurrent/Thread/Create/MyThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/ConCurrent/Thread/Create/MyThreadDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/ConCurrent/Thread/Create/MyThreadDemo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/ConCurrent/Thread/Create/MyThreadDemo3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/ConCurrent/Thread/Create/MyThreadDemo4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/ConCurrent/Thread/Create/RunnableDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/ConCurrent/Thread/Methods/Interrupted/Demo1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/ConCurrent/Thread/Methods/Interrupted/Demo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/ConCurrent/Thread/Methods/Interrupted/Demo2$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/ConCurrent/Thread/Methods/Interrupted/Demo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/ConCurrent/Thread/Methods/Interrupted/Demo2Update$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/ConCurrent/Thread/Methods/Interrupted/Demo2Update.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/ConCurrent/ThreadLocal/ThreadLocalDemo2$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/ConCurrent/ThreadLocal/ThreadLocalDemo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/ConCurrent/ThreadLocal/ThreadLocalTest$MyThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/ConCurrent/ThreadLocal/ThreadLocalTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/ConCurrent/Volatile/Demo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/ConCurrent/Volatile/Demo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/ConCurrent/Volatile/Demo3_ABA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/ConCurrent/Volatile/Sngleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/Converte/ConverteUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/Date/CalendarDemo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/Date/DateFormat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/Exception/MyExceptionDemo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/Exception/OutOfMemoryErrorDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/Exception/StackOutOFMemeoryDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/Exception/entity/MyException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/Genericity/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/Genericity/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/Genericity/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/Genericity/GlmapperGeneric.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/IO/DataStreamDemo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/IO/FileDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/IO/FileInputStreamDemo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/IO/FileUtilsKrest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/IO/InputStreamDemo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/IO/NioDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/IO/ObjectInputStreamDemo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/IO/entity/Member.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/IO/entity/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/Iterator/IteratorDemo1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/Iterator/IteratorDemo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/Json/JacksonUtil$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/Json/JacksonUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/Json/JsonToMap/JsonString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/Json/JsonToMap/Test$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/Json/JsonToMap/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/Json/JsonToXml/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/Json/JsonToXml/XmlUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/Json/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/Json/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/Log/LogDemo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/Network/Http/HttpUtilsKrest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/Network/IPDemo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/Network/IPDemo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/Network/IPDemo3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/Network/TCP/TCPClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/Network/TCP/TCPServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/Network/UDP/UDPClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/Network/UDP/UDPClientDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/Network/UDP/UDPServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/Network/UDP/UDPServerInputDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/NewFeature/Lambda$GreetingService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/NewFeature/Lambda$MathOperation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/NewFeature/Lambda.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/NewFeature/NewInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/NewFeature/Stream.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/NewFeature/TimeAPI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/Other/Iterator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/Other/LengthOfLongestSubstring.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/Other/Other.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/Other/QueueTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/Other/SetTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/Other/StackTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/Reflect/HelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/Reflect/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/Reflect/Test2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/Xml/Demo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/Xml/FileHandleUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/Xml/JsonFormatUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/Xml/ResourceUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/Xml/XMLUtilsKrest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/Xml/XmlUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/collection/ListDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/JavaSE/collection/MapDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/Leetcode/lc64.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/Leetcode/rearrangeArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/Spring/Aop/code/Calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/Spring/Aop/code/Cap10MainConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/Spring/Aop/code/Cap10Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/Spring/Aop/code/LogAspects.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/Spring/BeanLife/code/CustomerBeanPostProcessor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/Spring/BeanLife/code/IocBeanLifeService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/Spring/BeanLife/code/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/Spring/Event/code/example/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/Spring/Event/code/example/Event.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/Spring/Event/code/example/EventConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/Spring/Event/code/example/Listener1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/Spring/Event/code/example/Listener2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/Spring/Event/code/example/NotifyPublisher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/Spring/Event/code/example/SayHello.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/Spring/Event/code/example/SayHi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/Spring/Event/code/test/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/Spring/Event/code/test/Event.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/Spring/Event/code/test/EventConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/Spring/Event/code/test/Listener1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/Spring/Event/code/test/Listener2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/Spring/Event/code/test/NotifyPublisher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/Spring/Event/code/test/SayHello.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/Spring/Event/code/test/SayHi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/Spring/Event/code/test/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/Spring/MyselfSpring/code/resource/KrestApplicationContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/Spring/MyselfSpring/code/resource/MyAutowired.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/Spring/MyselfSpring/code/resource/MyBeanDefinition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/Spring/MyselfSpring/code/resource/MyBeanNameWare.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/Spring/MyselfSpring/code/resource/MyBeanPostProcessor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/Spring/MyselfSpring/code/resource/MyComponent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/Spring/MyselfSpring/code/resource/MyComponentScan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/Spring/MyselfSpring/code/resource/MyInitializingBean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/Spring/MyselfSpring/code/resource/MyScope.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/Spring/MyselfSpring/code/src/AppConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/Spring/MyselfSpring/code/src/OrderService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/Spring/MyselfSpring/code/src/RootService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/Spring/MyselfSpring/code/src/TestBeanPostProcessor$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/Spring/MyselfSpring/code/src/TestBeanPostProcessor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/Spring/MyselfSpring/code/src/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/Spring/MyselfSpring/code/src/UserServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/Spring/MyselfSpring/code/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/Yml/Address.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/Yml/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/Yml/YmlUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/address.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/classes/entity/People.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/test-classes/com/krest/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/test-classes/com/krest/FileDeletion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/test-classes/com/krest/IdWorker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/test-classes/com/krest/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/test-classes/com/krest/TestThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/test-classes/com/krest/ToImage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/test-classes/com/krest/delete.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-review/target/test-classes/com/krest/smb.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-utils/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service00-code-utils/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-utils/target/classes/com/krest/utils/cornjob/FicoScheduler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-utils/target/classes/com/krest/utils/cornjob/SchedulerJob.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-utils/target/classes/com/krest/utils/cornjob/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-utils/target/classes/com/krest/utils/demo/tes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-utils/target/classes/com/krest/utils/demo/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-utils/target/classes/com/krest/utils/demo/test2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-utils/target/classes/com/krest/utils/demo/test3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-utils/target/classes/com/krest/utils/demo/test4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-utils/target/classes/com/krest/utils/entity/ExcleData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-utils/target/classes/com/krest/utils/entity/ExcleData2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-utils/target/classes/com/krest/utils/entity/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-utils/target/classes/com/krest/utils/excel/ExcelListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-utils/target/classes/com/krest/utils/excel/ExcelTool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-utils/target/classes/com/krest/utils/excel/ExcleData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-utils/target/classes/com/krest/utils/util/CSVTool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-utils/target/classes/com/krest/utils/util/DateUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-utils/target/classes/com/krest/utils/util/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-utils/target/classes/com/krest/utils/util/ExcelListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-utils/target/classes/com/krest/utils/util/ExcelTool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-utils/target/classes/com/krest/utils/util/ExcelUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-utils/target/classes/com/krest/utils/util/ExecutorTool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-utils/target/classes/com/krest/utils/util/FileUtilsKrest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-utils/target/classes/com/krest/utils/util/HttpUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-utils/target/classes/com/krest/utils/util/JarFileUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-utils/target/classes/com/krest/utils/util/JsonToolKrest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-utils/target/classes/com/krest/utils/util/PerCentUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-utils/target/classes/com/krest/utils/util/StringUtilsKrest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-utils/target/classes/com/krest/utils/util/WatchTool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-utils/target/classes/info.2022-03-24.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-utils/target/classes/json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-utils/target/test-classes/com/krest/demo/Demo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-utils/target/test-classes/com/krest/demo/Demo3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-utils/target/test-classes/com/krest/demo/DemoPro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-utils/target/test-classes/com/krest/demo/utils/GlobalExecuter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-utils/target/test-classes/com/krest/demo/utils/Plan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-utils/target/test-classes/com/krest/demo/utils/Scheder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-utils/target/test-classes/com/krest/demo/utils/Task.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service00-code-utils/target/test-classes/com/krest/demo/utils/TaskInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service01-mybatis/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service01-mybatis/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service02-mybatis-plus/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service02-mybatis-plus/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service03-excle/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service03-excle/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service04-mq/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service04-mq/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service05-redis/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service05-redis/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service05-redis/src/main/java/com/krest/redis/config/RedissonConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/service05-redis/src/main/java/com/krest/redis/config/RedissonConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service05-redis/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/service05-redis/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service06-cloud/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service06-cloud/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service07-es/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service07-es/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service08-netty/01-helloserver/profiles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service08-netty/02-chat-house/src/main/java/com/krest/netty/server/ServerHelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/service08-netty/02-chat-house/src/main/java/com/krest/netty/server/ServerHelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service08-netty/02-chat-house/target/classes/com/krest/netty/client/CliemtHelloWprldHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service08-netty/02-chat-house/target/classes/com/krest/netty/client/ClientHelloWorld$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service08-netty/02-chat-house/target/classes/com/krest/netty/client/ClientHelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service08-netty/02-chat-house/target/classes/com/krest/netty/server/ServerHelloWorld$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service08-netty/02-chat-house/target/classes/com/krest/netty/server/ServerHelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service08-netty/02-chat-house/target/classes/com/krest/netty/server/ServerHelloWorldHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service08-netty/02-chat-house/target/classes/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service08-netty/03-chat-house/src/main/java/com/krest/chat/client1/Client1.java" beforeDir="false" afterPath="$PROJECT_DIR$/service08-netty/03-chat-house/src/main/java/com/krest/chat/client1/Client1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service08-netty/03-chat-house/src/main/java/com/krest/chat/server/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/service08-netty/03-chat-house/src/main/java/com/krest/chat/server/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service08-netty/03-chat-house/src/main/java/com/krest/chat/server/ServerHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/service08-netty/03-chat-house/src/main/java/com/krest/chat/server/ServerHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service08-netty/03-chat-house/target/classes/com/krest/chat/client1/Client1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service08-netty/03-chat-house/target/classes/com/krest/chat/client1/Client1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service08-netty/03-chat-house/target/classes/com/krest/chat/client1/ClientHandler1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service08-netty/03-chat-house/target/classes/com/krest/chat/client2/Client2$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service08-netty/03-chat-house/target/classes/com/krest/chat/client2/Client2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service08-netty/03-chat-house/target/classes/com/krest/chat/client2/ClientHandler2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service08-netty/03-chat-house/target/classes/com/krest/chat/server/Server$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service08-netty/03-chat-house/target/classes/com/krest/chat/server/Server.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service08-netty/03-chat-house/target/classes/com/krest/chat/server/ServerHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service08-netty/03-chat-house/target/classes/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service08-netty/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service08-netty/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service09-elk/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service09-elk/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service10-zookeeper/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service10-zookeeper/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service10-zookeeper/target/classes/com/krest/zk/zookeeperTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service10-zookeeper/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service10-zookeeper/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service10-zookeeper/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service10-zookeeper/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service10-zookeeper/target/surefire-reports/TEST-zk.zookeeperTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service10-zookeeper/target/surefire-reports/zk.zookeeperTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service10-zookeeper/target/test-classes/zk/entity/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service10-zookeeper/target/test-classes/zk/zookeeperTest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service10-zookeeper/target/test-classes/zk/zookeeperTest$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service10-zookeeper/target/test-classes/zk/zookeeperTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service11-kafka/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service11-kafka/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service12-dom4j/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service12-dom4j/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service12-xmlResponse/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service12-xmlResponse/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service13_sql_server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service13_sql_server/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service14-mp-sqlserver/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service14-mp-sqlserver/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service15-hemltopng/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service15-hemltopng/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service16-tomcat/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service16-tomcat/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service17-rocker-product/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service17-rocker-product/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service18-rocket-consumer/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service18-rocket-consumer/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service19-filter/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service19-filter/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service19-filter/target/classes/META-INF/spring-configuration-metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service19-filter/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service19-filter/target/classes/com/krest/filter/DemoBoot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service19-filter/target/classes/com/krest/filter/common/MyConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service19-filter/target/classes/com/krest/filter/controller/DemoController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service19-filter/target/classes/com/krest/filter/filter/PermissionFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service20-interceptor/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service20-interceptor/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service20-interceptor/target/classes/META-INF/spring-configuration-metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service20-interceptor/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service20-interceptor/target/classes/com/krest/Interceptor/DemoBoot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service20-interceptor/target/classes/com/krest/Interceptor/Interceptor/AuthInterceptor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service20-interceptor/target/classes/com/krest/Interceptor/Interceptor/InterceptorConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service20-interceptor/target/classes/com/krest/Interceptor/common/MyConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service20-interceptor/target/classes/com/krest/Interceptor/controller/DemoController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service21-gateway/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service21-gateway/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service21-gateway/service21-gateway.iml" beforeDir="false" afterPath="$PROJECT_DIR$/service21-gateway/service21-gateway.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service21-gateway/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service21-gateway/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service21-gateway/target/classes/com/krest/Gateway/Service_gateway.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service21-gateway/target/classes/com/krest/Gateway/config/CorsConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service21-gateway/target/classes/com/krest/Gateway/config/ErrorHandlerConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service21-gateway/target/classes/com/krest/Gateway/config/JsonExceptionHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service21-gateway/target/classes/com/krest/Gateway/config/KeyResolverConfiguration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service21-gateway/target/classes/com/krest/Gateway/config/MySelfRule.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service21-gateway/target/classes/com/krest/Gateway/entity/ReturnData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service21-gateway/target/classes/com/krest/Gateway/filter/JwtTokenFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service21-gateway/target/classes/com/krest/Gateway/utils/JwtUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service22-sentinel/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service22-sentinel/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service22-sentinel/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service22-sentinel/target/classes/com/krest/sentinel/controller/controller.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service22-sentinel/target/classes/com/krest/sentinel/service_sentinel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service22-sentinel/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service22-sentinel/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service22-sentinel/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service22-sentinel/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service22-sentinel/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service22-sentinel/target/service22-sentinel-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service22-sentinel/target/test-classes/test/sentinelTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service23-dubbo-client/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service23-dubbo-client/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service23-dubbo-client/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service23-dubbo-client/target/classes/com/krest/dubbo/DubboBoot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service23-dubbo-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service23-dubbo-server/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service23-dubbo-server/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service24-mongodb/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service24-mongodb/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service24-mongodb/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service24-mongodb/target/classes/banner.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service24-mongodb/target/classes/com/krest/demo/controller/MongoDBDemoController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service24-mongodb/target/classes/com/krest/demo/entity/Employee$EmployeeBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service24-mongodb/target/classes/com/krest/demo/entity/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service24-mongodb/target/classes/com/krest/demo/entity/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service24-mongodb/target/classes/com/krest/demo/mapper/EmployeeRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service24-mongodb/target/classes/com/krest/demo/mongodb.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service24-mongodb/target/classes/com/krest/demo/service/EmployeeService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service24-mongodb/target/classes/com/krest/demo/service/EmployeeServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service24-mongodb/target/classes/com/krest/demo/utils/Response.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service25-shiro/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service25-shiro/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service25-shiro/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service25-shiro/target/classes/com/krest/shiro/ShiroApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service25-shiro/target/classes/com/krest/shiro/controller/AccountController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service25-shiro/target/classes/com/krest/shiro/entity/Account.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service25-shiro/target/classes/com/krest/shiro/mapper/AccountMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service25-shiro/target/classes/com/krest/shiro/service/AccountService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service25-shiro/target/classes/com/krest/shiro/service/impl/AccountServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service25-shiro/target/classes/com/krest/shiro/utils/AccountRealm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service25-shiro/target/classes/com/krest/shiro/utils/ShiroConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service25-shiro/target/classes/table" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service25-shiro/target/classes/templates/admin.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service25-shiro/target/classes/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service25-shiro/target/classes/templates/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service25-shiro/target/classes/templates/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service25-shiro/target/classes/templates/manage.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service25-shiro/target/classes/templates/register.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service25-shiro/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service25-shiro/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service25-shiro/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service25-shiro/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service25-shiro/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service25-shiro/target/service25-shiro-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service25-shiro/target/service25-shiro-1.0-SNAPSHOT.jar.original" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service26-spark/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service26-spark/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service26-spark/target/classes/com/krest/spark/WordCount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service27-hadoop/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service27-hadoop/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service27-hadoop/service27-1-hdfs/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service27-hadoop/service27-1-hdfs/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service28-springbootstarter/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service28-springbootstarter/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service28-springbootstarter/target/classes/META-INF/spring.factories" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service28-springbootstarter/target/classes/com/krest/demo/starter/DemoProperties.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service28-springbootstarter/target/classes/com/krest/demo/starter/DemoService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service28-springbootstarter/target/classes/com/krest/demo/starter/DemoServiceAutoConfiguration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service28-springbootstarter/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service28-springbootstarter/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service28-springbootstarter/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service28-springbootstarter/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service28-springbootstarter/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service28-springbootstarter/target/service28-springbootstarter-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/上传.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/下载.cmd" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\MavenRepository" />
+        <option name="mavenHome" value="C:/Program Files/java/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="C:\Program Files\java\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1zM8SKhC93m9FZrioLnEX9gXWUe" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.3494253" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.krest.demo" />
+      <recent name="com.krest.demo.entity" />
+      <recent name="com.krest.utils.excel" />
+      <recent name="com.krest.utils.entity" />
+      <recent name="com.krest.utils" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\data-structure-learning\service25-shiro" />
+      <recent name="F:\data-structure-learning\service24-mongodb\src\main\resources" />
+      <recent name="F:\data-structure-learning\code-utils\src\main\java\com\krest\utils\excel" />
+      <recent name="F:\data-structure-learning\service08-netty\03-chat-house\src\main\java\com\krest\chat\client2" />
+      <recent name="F:\data-structure-learning\service08-netty\03-chat-house\src\main\java\com\krest\chat" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.service05_redis">
+    <configuration name="Client1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.krest.chat.client1.Client1" />
+      <module name="03-chat-house" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.krest.chat.client1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.krest.chat.client2.Client2" />
+      <module name="03-chat-house" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.krest.chat.client2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClientHelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.krest.netty.client.ClientHelloWorld" />
+      <module name="02-chat-house" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.krest.netty.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServerHelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.krest.netty.server.ServerHelloWorld" />
+      <module name="02-chat-house" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.krest.netty.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordCount" type="Application" factoryName="Application">
+      <envs>
+        <env name="Hadoop_HOME" value="C:\Program Files\hadoop" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="com.krest.spark.WordCount" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoBoot" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service16-tomcat" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.krest.demo.DemoBoot" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShiroApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service25-shiro" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.krest.shiro.ShiroApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="service05_redis" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="service05-redis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.krest.redis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.krest.redis.service05_redis" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="service12_xml" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service12-xmlResponse" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.krest.xml.service12_xml" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.WordCount" />
+      <item itemvalue="Application.Client2" />
+      <item itemvalue="Application.Client1" />
+      <item itemvalue="Application.ServerHelloWorld" />
+      <item itemvalue="Application.ClientHelloWorld" />
+      <item itemvalue="Spring Boot.DemoBoot" />
+      <item itemvalue="Spring Boot.service12_xml" />
+      <item itemvalue="Spring Boot.ShiroApplication" />
+      <item itemvalue="Spring Boot.service05_redis" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.service05_redis" />
+        <item itemvalue="Application.ClientHelloWorld" />
+        <item itemvalue="Application.ServerHelloWorld" />
+        <item itemvalue="Application.Client1" />
+        <item itemvalue="Application.Client2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_INHERITED,SHOW_INTERFACES" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aaa9b787-c28e-4b0a-a79c-7cfcb37f9a17" name="Default Changelist" comment="" />
+      <created>1633946594428</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1633946594428</updated>
+      <workItem from="1633946598490" duration="29000" />
+      <workItem from="1633947390475" duration="481000" />
+      <workItem from="1634002045122" duration="197000" />
+      <workItem from="1634005661026" duration="865000" />
+      <workItem from="1634007247288" duration="594000" />
+      <workItem from="1634090172072" duration="592000" />
+      <workItem from="1634264280671" duration="639000" />
+      <workItem from="1634270938683" duration="577000" />
+      <workItem from="1634536396133" duration="4318000" />
+      <workItem from="1635134171288" duration="6996000" />
+      <workItem from="1635213941648" duration="1218000" />
+      <workItem from="1635225589888" duration="1700000" />
+      <workItem from="1635228237375" duration="4185000" />
+      <workItem from="1635309436690" duration="2657000" />
+      <workItem from="1635384841284" duration="3079000" />
+      <workItem from="1635823749294" duration="3785000" />
+      <workItem from="1635929714006" duration="1379000" />
+      <workItem from="1636366084337" duration="1552000" />
+      <workItem from="1636368467335" duration="1248000" />
+      <workItem from="1636427773739" duration="4405000" />
+      <workItem from="1636598698489" duration="1194000" />
+      <workItem from="1636606066152" duration="9201000" />
+      <workItem from="1636688579303" duration="4505000" />
+      <workItem from="1636730554202" duration="3109000" />
+      <workItem from="1637042924329" duration="1101000" />
+      <workItem from="1637122279456" duration="1193000" />
+      <workItem from="1637222884424" duration="1067000" />
+      <workItem from="1637226304437" duration="980000" />
+      <workItem from="1637304893832" duration="2554000" />
+      <workItem from="1637638036441" duration="7365000" />
+      <workItem from="1638174966116" duration="5293000" />
+      <workItem from="1638237276700" duration="562000" />
+      <workItem from="1638252308505" duration="1223000" />
+      <workItem from="1638257313318" duration="1181000" />
+      <workItem from="1638323379140" duration="56000" />
+      <workItem from="1638334391003" duration="31000" />
+      <workItem from="1638352701463" duration="814000" />
+      <workItem from="1638499747672" duration="4454000" />
+      <workItem from="1638759047063" duration="2596000" />
+      <workItem from="1638841597975" duration="2402000" />
+      <workItem from="1639018058894" duration="2501000" />
+      <workItem from="1639101041683" duration="956000" />
+      <workItem from="1639126084163" duration="1404000" />
+      <workItem from="1639535211722" duration="673000" />
+      <workItem from="1639550130330" duration="9971000" />
+      <workItem from="1639619321945" duration="2058000" />
+      <workItem from="1639640837888" duration="1021000" />
+      <workItem from="1639651100862" duration="743000" />
+      <workItem from="1639705756193" duration="3238000" />
+      <workItem from="1640065562576" duration="2246000" />
+      <workItem from="1640157754493" duration="570000" />
+      <workItem from="1640317363508" duration="747000" />
+      <workItem from="1640338054465" duration="641000" />
+      <workItem from="1640338894680" duration="674000" />
+      <workItem from="1640664118752" duration="1488000" />
+      <workItem from="1643094517841" duration="961000" />
+      <workItem from="1643163142191" duration="588000" />
+      <workItem from="1643258329262" duration="504000" />
+      <workItem from="1644226084292" duration="1906000" />
+      <workItem from="1644286289509" duration="572000" />
+      <workItem from="1644293229210" duration="5301000" />
+      <workItem from="1644316130527" duration="2256000" />
+      <workItem from="1644371275092" duration="78000" />
+      <workItem from="1644378102165" duration="3188000" />
+      <workItem from="1644486702211" duration="1943000" />
+      <workItem from="1644544045217" duration="10308000" />
+      <workItem from="1644567720727" duration="1728000" />
+      <workItem from="1644585906670" duration="3151000" />
+      <workItem from="1644641802242" duration="430000" />
+      <workItem from="1644832168866" duration="453000" />
+      <workItem from="1644895357144" duration="847000" />
+      <workItem from="1644896964449" duration="375000" />
+      <workItem from="1644979133025" duration="4191000" />
+      <workItem from="1644995666996" duration="2601000" />
+      <workItem from="1645088820371" duration="1134000" />
+      <workItem from="1646293428107" duration="727000" />
+      <workItem from="1646986369905" duration="3826000" />
+      <workItem from="1647180139565" duration="642000" />
+      <workItem from="1647581800238" duration="3318000" />
+      <workItem from="1647781127875" duration="1376000" />
+      <workItem from="1647783754377" duration="182000" />
+      <workItem from="1647784066347" duration="158000" />
+      <workItem from="1647827803317" duration="764000" />
+      <workItem from="1647830038018" duration="1365000" />
+      <workItem from="1647850906344" duration="1396000" />
+      <workItem from="1647852899800" duration="333000" />
+      <workItem from="1647853351376" duration="168000" />
+      <workItem from="1648018210586" duration="9694000" />
+      <workItem from="1648086969363" duration="5688000" />
+      <workItem from="1648176882844" duration="1637000" />
+      <workItem from="1648437874637" duration="3468000" />
+      <workItem from="1648467620847" duration="2377000" />
+      <workItem from="1648519513600" duration="570000" />
+      <workItem from="1650437447089" duration="5248000" />
+      <workItem from="1650681286789" duration="2312000" />
+      <workItem from="1650765776673" duration="1616000" />
+      <workItem from="1650793747339" duration="620000" />
+      <workItem from="1650852286822" duration="3218000" />
+      <workItem from="1651040657412" duration="4372000" />
+      <workItem from="1651130700742" duration="5849000" />
+      <workItem from="1651915730018" duration="1161000" />
+      <workItem from="1651935193323" duration="5548000" />
+      <workItem from="1652064709754" duration="2923000" />
+      <workItem from="1652168209532" duration="6044000" />
+      <workItem from="1652366083845" duration="1086000" />
+      <workItem from="1652374638192" duration="14978000" />
+      <workItem from="1652684891196" duration="61000" />
+      <workItem from="1652692676972" duration="19051000" />
+      <workItem from="1652753676621" duration="16967000" />
+      <workItem from="1652801294875" duration="3208000" />
+      <workItem from="1652878695182" duration="1317000" />
+      <workItem from="1652880499320" duration="1265000" />
+      <workItem from="1652928639044" duration="2120000" />
+      <workItem from="1652954726227" duration="1038000" />
+      <workItem from="1653010213326" duration="527000" />
+      <workItem from="1653010887120" duration="3000" />
+      <workItem from="1653357817788" duration="1100000" />
+      <workItem from="1653358970244" duration="32961000" />
+      <workItem from="1653443117554" duration="40910000" />
+      <workItem from="1653663621409" duration="3336000" />
+      <workItem from="1653893185058" duration="3725000" />
+      <workItem from="1654422957481" duration="3796000" />
+      <workItem from="1654479018622" duration="5703000" />
+      <workItem from="1654509525116" duration="68000" />
+      <workItem from="1654565423013" duration="6198000" />
+      <workItem from="1654659122094" duration="2230000" />
+      <workItem from="1654762293207" duration="724000" />
+      <workItem from="1654844353355" duration="160000" />
+      <workItem from="1654844701071" duration="890000" />
+      <workItem from="1655084686600" duration="5393000" />
+      <workItem from="1655094349585" duration="1771000" />
+      <workItem from="1655098547700" duration="484000" />
+      <workItem from="1655110625839" duration="508000" />
+      <workItem from="1655112505714" duration="1271000" />
+      <workItem from="1655182905276" duration="199000" />
+      <workItem from="1655187162745" duration="9000" />
+      <workItem from="1655187286947" duration="40000" />
+      <workItem from="1655187333897" duration="310000" />
+      <workItem from="1655208752908" duration="748000" />
+      <workItem from="1655352098180" duration="894000" />
+      <workItem from="1655358685919" duration="4842000" />
+      <workItem from="1655370957994" duration="3595000" />
+      <workItem from="1655389208085" duration="1159000" />
+      <workItem from="1655443193135" duration="2031000" />
+      <workItem from="1655464395198" duration="58000" />
+      <workItem from="1655557371763" duration="1096000" />
+      <workItem from="1655887648371" duration="1150000" />
+      <workItem from="1655896077263" duration="1265000" />
+      <workItem from="1656294738192" duration="3658000" />
+      <workItem from="1656300691243" duration="1494000" />
+      <workItem from="1656310783056" duration="294000" />
+      <workItem from="1656311261556" duration="771000" />
+      <workItem from="1656418884149" duration="1208000" />
+      <workItem from="1656466840520" duration="382000" />
+      <workItem from="1656471171861" duration="632000" />
+      <workItem from="1656506654468" duration="4264000" />
+      <workItem from="1656560759121" duration="11213000" />
+      <workItem from="1656600726257" duration="1545000" />
+      <workItem from="1656639957795" duration="745000" />
+      <workItem from="1656644991852" duration="1364000" />
+      <workItem from="1656649555807" duration="1463000" />
+      <workItem from="1656654987220" duration="6924000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="565" y="225" key="#Notifications" timestamp="1655389341856">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="565" y="225" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1655389341856" />
+    <state x="163" y="0" key="#Project_Structure" timestamp="1655443309474">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1655443309474" />
+    <state x="352" y="0" width="675" height="728" key="#WordCount" timestamp="1654845611031">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="352" y="0" width="675" height="728" key="#WordCount/0.0.1366.728@0.0.1366.728" timestamp="1654845611031" />
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1654845598716">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1654845598716" />
+    <state x="432" y="164" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1656682490531">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="432" y="164" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1656682490531" />
+    <state x="463" y="68" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1651138158103">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="68" key="#com.intellij.ide.macro.MacrosDialog/0.0.1366.728@0.0.1366.728" timestamp="1651138158103" />
+    <state x="488" y="64" key="#com.intellij.ide.util.MemberChooser" timestamp="1653377175735">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="64" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1653377175735" />
+    <state x="342" y="286" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1651137938101">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="342" y="286" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.728@0.0.1366.728" timestamp="1651137938101" />
+    <state x="397" y="230" width="572" height="274" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1656301056416">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="397" y="230" width="572" height="274" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1656301056416" />
+    <state x="296" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1650441465810">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="296" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1650441465810" />
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1653373772040">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1653373772040" />
+    <state x="541" y="109" key="EnvironmentVariablesDialog" timestamp="1654845557466">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="541" y="109" key="EnvironmentVariablesDialog/0.0.1366.728@0.0.1366.728" timestamp="1654845557466" />
+    <state x="587" y="49" key="FileChooserDialogImpl" timestamp="1656658811813">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="587" y="49" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1656658811813" />
+    <state width="661" height="284" key="GridCell.Tab.0.bottom" timestamp="1656682502458">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="661" height="284" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1656682502458" />
+    <state width="661" height="284" key="GridCell.Tab.0.center" timestamp="1656682502458">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="661" height="284" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1656682502458" />
+    <state width="661" height="284" key="GridCell.Tab.0.left" timestamp="1656682502457">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="661" height="284" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1656682502457" />
+    <state width="661" height="284" key="GridCell.Tab.0.right" timestamp="1656682502458">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="661" height="284" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1656682502458" />
+    <state width="1072" height="88" key="GridCell.Tab.1.bottom" timestamp="1656602290347">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1072" height="88" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1656602290347" />
+    <state width="1072" height="88" key="GridCell.Tab.1.center" timestamp="1656602290347">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1072" height="88" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1656602290347" />
+    <state width="1072" height="88" key="GridCell.Tab.1.left" timestamp="1656602290347">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1072" height="88" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1656602290347" />
+    <state width="1072" height="88" key="GridCell.Tab.1.right" timestamp="1656602290347">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1072" height="88" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1656602290347" />
+    <state x="213" y="18" key="Maven.ArtifactSearchDialog" timestamp="1653370491260">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="18" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1653370491260" />
+    <state x="184" y="8" key="SettingsEditor" timestamp="1655187350471">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="8" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1655187350471" />
+    <state x="413" y="118" key="extract.method.dialog" timestamp="1653667283311">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="118" key="extract.method.dialog/0.0.1366.728@0.0.1366.728" timestamp="1653667283311" />
+    <state x="384" y="96" width="598" height="536" key="find.popup" timestamp="1655372790204">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="384" y="96" width="598" height="536" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1655372790204" />
+    <state x="115" y="25" key="new project wizard" timestamp="1656561082294">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="115" y="25" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1656561082294" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1652753455905">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1652753455905" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1656676417814">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1656676417814" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/service00-code-review/src/main/java/Spring/BeanLife/code/test.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.2.1.RELEASE/spring-context-5.2.1.RELEASE.jar!/org/springframework/context/support/AbstractXmlApplicationContext.class</url>
+          <line>36</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.2.1.RELEASE/spring-context-5.2.1.RELEASE.jar!/org/springframework/context/support/AbstractApplicationContext.class</url>
+          <line>273</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.2.1.RELEASE/spring-context-5.2.1.RELEASE.jar!/org/springframework/context/support/AbstractApplicationContext.class</url>
+          <line>490</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.2.1.RELEASE/spring-beans-5.2.1.RELEASE.jar!/org/springframework/beans/factory/support/DefaultSingletonBeanRegistry.class</url>
+          <line>126</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.2.1.RELEASE/spring-beans-5.2.1.RELEASE.jar!/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.class</url>
+          <line>323</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.2.1.RELEASE/spring-beans-5.2.1.RELEASE.jar!/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.class</url>
+          <line>379</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.2.1.RELEASE/spring-beans-5.2.1.RELEASE.jar!/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.class</url>
+          <line>1250</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.2.1.RELEASE/spring-beans-5.2.1.RELEASE.jar!/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.class</url>
+          <line>1233</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.2.1.RELEASE/spring-context-5.2.1.RELEASE.jar!/org/springframework/context/support/ApplicationContextAwareProcessor.class</url>
+          <line>47</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/service00-code-review/src/main/java/Spring/BeanLife/code/test.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.2.1.RELEASE/spring-context-5.2.1.RELEASE.jar!/org/springframework/context/support/AbstractApplicationContext.class</url>
+          <line>534</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/java/jdk1.8.0_181/src.zip!/java/util/Vector.java</url>
+          <line>150</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/io/netty/netty-transport/4.1.43.Final/netty-transport-4.1.43.Final.jar!/io/netty/bootstrap/AbstractBootstrap.class</url>
+          <line>120</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.2.1.RELEASE/spring-boot-2.2.1.RELEASE-sources.jar!/org/springframework/boot/SpringApplication.java</url>
+          <line>818</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint type="java-method">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.2.1.RELEASE/spring-beans-5.2.1.RELEASE.jar!/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.class</url>
+          <line>1221</line>
+          <properties class="org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory" method="initializeBean">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.2.0.RELEASE/spring-core-5.2.0.RELEASE-sources.jar!/org/springframework/util/StopWatch.java</url>
+          <line>151</line>
+          <properties class="org.springframework.util.StopWatch" method="stop">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
