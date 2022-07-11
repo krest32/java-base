@@ -1,0 +1,46 @@
+//使用 proto3 语法 ,未指定则使用proto2
+syntax = "proto3";
+option optimize_for = SPEED; // 加快解析
+//option java_multiple_files = true; //如果为true，每个message和service都会被生成为一个类。
+//生成 proto 文件所在包路径
+//package com.krest.proto;
+
+//生成 proto 文件所在包路径
+option java_package = "com.krest.proto.demo1";
+//生成 proto 文件名
+option java_outer_classname = "DemoPoJo";
+
+message Mymessage {
+    // 定义枚举, enum 的编号要从 0 开始
+    enum DataType {
+        DemoType = 0;
+        WorkerType = 1;
+    }
+
+    // 用来表示是哪个枚举类型
+    DataType data_type = 1;
+
+    // 代表每次枚举类型只能出现一个
+    oneof dataBody {
+        Demo demo = 2;
+        Worker worker = 3;
+    }
+
+
+}
+
+message Demo {
+    //自身属性
+    int32 id = 1;
+    string code = 2;
+    string name = 3;
+    string address = 4;
+    repeated string phone = 5;
+    map<string, string> email = 8;
+}
+
+message Worker {
+    string name = 1;
+    int32  age = 2;
+}
+

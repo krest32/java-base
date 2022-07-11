@@ -46,6 +46,7 @@
         <module>service26-spark</module>
         <module>service25-shiro</module>
         <module>service28-springbootstarter</module>
+        <module>service29-protobuf</module>
 
     </modules>
 
