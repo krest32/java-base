@@ -47,6 +47,7 @@
         <module>service25-shiro</module>
         <module>service28-springbootstarter</module>
         <module>service29-protobuf</module>
+        <module>service08-netty/04-udp</module>
 
     </modules>
 

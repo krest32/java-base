@@ -1,4 +1,4 @@
-package com.krest.udp;
+package com.krest.udp.client2;
 
 import io.netty.bootstrap.Bootstrap;
 import io.netty.buffer.Unpooled;

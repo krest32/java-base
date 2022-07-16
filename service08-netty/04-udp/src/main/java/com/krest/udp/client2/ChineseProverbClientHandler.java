@@ -1,4 +1,4 @@
-package com.krest.udp;
+package com.krest.udp.client2;
 
 import io.netty.channel.ChannelHandlerContext;
 import io.netty.channel.SimpleChannelInboundHandler;

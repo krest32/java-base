@@ -6,7 +6,7 @@ import io.netty.channel.EventLoopGroup;
 import io.netty.channel.nio.NioEventLoopGroup;
 import io.netty.channel.socket.nio.NioDatagramChannel;
 
-public class server {
+public class ChineseProverbServer {
 
     public void run(int port) throws Exception {
         EventLoopGroup bossGroup = new NioEventLoopGroup();
@@ -34,5 +34,4 @@ public class server {
         }
         new ChineseProverbServer().run(port);
     }
-}
 }
