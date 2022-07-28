@@ -1,7 +1,5 @@
 package com.krest.proto.demo1;
 
-import com.alibaba.fastjson.JSONObject;
-import com.google.gson.JsonObject;
 import com.google.protobuf.InvalidProtocolBufferException;
 import com.google.protobuf.util.JsonFormat;
 
@@ -49,7 +47,7 @@ public class SimpleTestMain {
             demo1 = DemoPoJo.Demo.parseFrom(s);
             //转 json
             jsonObject = JsonFormat.printer().print(demo1);
-            System.out.println(JSONObject.toJSONString(jsonObject));
+            System.out.println(jsonObject);
 
         } catch (InvalidProtocolBufferException e) {
             e.printStackTrace();
